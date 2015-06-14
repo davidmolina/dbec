@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: ODOT Disparity Survey<br>Be heard
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ODOT is compiling a list of companies interested in working on road, highway and bridge projects. This includes any construction, engineering and design, trucking, and materials supply on highway, road, bridge and related projects for both state and local governments. The list, being compiled in May and June through phone surveys and an online survey, will serve as a resource for the department’s update to its disparity study.[Take the survey](http://odotdbestudy.org/)

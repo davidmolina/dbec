@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: USDOT Bonding Education Program Workshop<br>
+Vancouver, Washington
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+The BEP consists of a comprehensive set of all- inclusive workshops designed to address what businesses need to do to become bond-ready, as well as one-on-one sessions with local surety bonding professionals to help in assembling the materials necessary for a complete bond application. [RSVP now for 6/16-6/17 workshop](http://www.eventbrite.com/e/usdot-bonding-education-program-workshop-vancouver-washington-tickets-16678705457).
