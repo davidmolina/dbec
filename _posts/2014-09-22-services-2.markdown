@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: dogg.png
 category: Services
 title: President of DBEc Marcela Alcantar hosts meeting with Director of U.S. Office of Personnel Management, Katherine Archuleta
 description: |
